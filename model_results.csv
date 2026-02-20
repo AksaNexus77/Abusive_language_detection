@@ -1,0 +1,4 @@
+Feature + Model,Accuracy,Precision,Recall,F1
+BoW + Naive Bayes,0.775,0.6897,1.0,0.8163
+TF-IDF + Naive Bayes,0.775,0.6897,1.0,0.8163
+TF-IDF + Logistic Reg.,0.825,0.8421,0.8,0.8205
